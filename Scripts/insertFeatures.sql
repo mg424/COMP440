@@ -9,12 +9,12 @@ INSERT INTO [dbo].[feature]
            ,[description]
            ,[parent_id])
      VALUES
-           ('create user meshing diagram',
-            '2008-11-11',
-             0,
-           'optimization',
-           'meshes users into single diagram',
-           1111)
+           ('Data hash feature'
+           ,'1-9-1999'
+           ,1
+           ,'Deployment'
+           ,'feature will hash data for users'
+           ,2215)
 GO
 
 
